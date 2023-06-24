@@ -1,4 +1,4 @@
-# Sudoku-Solver❓
+# Sudoku Solver❓
 ---
 ### You must be familiar with Sudoku as a numerical table! This game was introduced for the first time in 1986 in Japan and since 2005 achieved global popularity. The most common type of sudoku is a 9 x 9 table, which is divided into 9 smaller 3 x 3 tables has been In this table, some numbers are placed by default
 ### the rest of the numbers should be found by observing the following three rules:
